@@ -18,6 +18,8 @@ class ViewController: UIViewController {
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
+        
+        //https://itunes.apple.com/gb/rss/topfreeapplications/limit=100/json
     }
 
 
