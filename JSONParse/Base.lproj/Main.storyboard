@@ -37,6 +37,11 @@
                         <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
                     </view>
                     <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina55"/>
+                    <connections>
+                        <outlet property="imageView" destination="wPZ-R5-VO2" id="Mhu-w3-13e"/>
+                        <outlet property="myDescription" destination="Xxq-Zn-TV7" id="pXK-LE-J22"/>
+                        <outlet property="titleLabel" destination="zgv-mb-K5L" id="5wy-Gs-Xi8"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
